@@ -9,7 +9,7 @@
 
 - zet deze map als arena
 ```
-/bw admin (mapnaam) add
+/bw admin (mapnaam (eerste letter hoofdletter)) add
 ```
 
 ### stap 2: grootte van de arena selecteren
